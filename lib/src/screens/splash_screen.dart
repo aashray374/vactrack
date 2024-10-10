@@ -50,7 +50,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       body: Center(child: AnimatedOpacity(duration:const Duration(milliseconds: 1000),
       opacity: visible?1.0:0.0,
-      child:Icon(Icons.person),),),
+      child:Image.asset('assets/images/logo.jpeg'),),)
     );
   }
 }
