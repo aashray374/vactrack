@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536858158349",
+    "project_id": "vaccination-390e1",
+    "storage_bucket": "vaccination-390e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536858158349:android:b9229fcd39c654eeb47c44",
+        "android_client_info": {
+          "package_name": "com.example.vactrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxkNGZBKM0zdd0TPIJAjeiCKDCIvXTLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
